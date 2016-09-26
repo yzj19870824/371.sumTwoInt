@@ -1,4 +1,5 @@
 def func():
+    print "nothing"
     pass
 
 
